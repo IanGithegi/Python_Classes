@@ -6,11 +6,12 @@ name = "pypi"
 
 
 [dev-packages]
+
 pytest = "*"
+pylint = "*"
 
 
 [packages]
-
 
 
 
