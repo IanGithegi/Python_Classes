@@ -1,0 +1,21 @@
+{
+  "string_words/accum/test_accum.py::AccumTests::test_1": true, 
+  "string_words/accum/test_accum.py::AccumTests::test_2": true, 
+  "string_words/accum/test_accum.py::AccumTests::test_3": true, 
+  "string_words/accum/test_accum.py::AccumTests::test_4": true, 
+  "string_words/accum/test_accum.py::AccumTests::test_5": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_1": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_10": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_11": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_13": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_2": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_3": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_4": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_5": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_6": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_7": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_8": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_9": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_raises_value_error_for_non_strings": true, 
+  "string_words/alternate/test_alternate_case.py::AlternateCaseTest::test_raises_value_error_for_none_inputs": true
+}
