@@ -27,5 +27,8 @@
   "string_words/acronym_buster/test_acronym.py::AcronymTestCase::test_9": true, 
   "string_words/caps_counter/test_caps_counter.py::CapsTests::test_2": true, 
   "string_words/caps_counter/test_caps_counter.py::CapsTests::test_hello": true, 
-  "string_words/caps_counter/test_caps_counter.py::CapsTests::test_punctuation_only": true
+  "string_words/caps_counter/test_caps_counter.py::CapsTests::test_punctuation_only": true, 
+  "string_words/palindrome/test_palindrome.py::PalindromeTests::test_palindrome_pairs_1": true, 
+  "string_words/palindrome/test_palindrome.py::PalindromeTests::test_palindrome_pairs_2": true, 
+  "string_words/palindrome/test_palindrome.py::PalindromeTests::test_palindrome_pairs_3": true
 }
