@@ -1,0 +1,2 @@
+def xoxo(stringer):
+    pass
