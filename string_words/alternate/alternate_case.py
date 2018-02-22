@@ -1,2 +1,6 @@
 def to_alternating_case(phrase):
-    pass
+    string = (phrase)
+    return string.swapcase()
+
+
+to_alternating_case("PhRaSe")
